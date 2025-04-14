@@ -25,7 +25,7 @@ Each service includes validation and logic that is thoroughly tested using edge 
 _Original version: Java, JUnit_
 
 ## Getting Started
-To run this project locally and execut the unit tests:
+To run this project locally and execute the unit tests:
 
 1. **Clone the repository**
    ```bash
