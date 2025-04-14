@@ -2,6 +2,8 @@
 
 This project is a unit testing suite for a "future" mobile application for the client "Grand Strand." The system includes three main services: Contact,Task, and Appointment. Each service is supported by its own class and respective unit tests.
 
+You can find the difference between the original and enhanced artifacts through my pull request: [Enhanced artifact using pytest](https://github.com/collinlanie12/capstone-artifact-1/pull/1)
+
 ## Project Overview
 This project is designed to validate the functionality of three core service modules:
 - **Contact**: Manages user contact information (names, phone numbers, addresses, etc.).
