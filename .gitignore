@@ -12,6 +12,7 @@ env/
 venv/
 .idea/
 *.log
+.pytest_cache
 
 # Java
 target/
