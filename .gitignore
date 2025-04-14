@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+.idea/
+*.log
+
+# Java
+target/
+*.class
+*.jar
+
+# VSCode
+.vscode/
+
+# Unit test reports
+htmlcov/
+coverage.xml
+*.cover
+.cache/
